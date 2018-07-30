@@ -1,2 +1,1 @@
 # Cozy-Automation
-Cozy-Automation
